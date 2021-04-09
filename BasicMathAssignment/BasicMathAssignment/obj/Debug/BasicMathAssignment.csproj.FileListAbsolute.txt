@@ -1,7 +1,0 @@
-C:\Users\Owner\Desktop\Basic_C#_Projects\BasicMathAssignment\BasicMathAssignment\bin\Debug\BasicMathAssignment.exe.config
-C:\Users\Owner\Desktop\Basic_C#_Projects\BasicMathAssignment\BasicMathAssignment\bin\Debug\BasicMathAssignment.exe
-C:\Users\Owner\Desktop\Basic_C#_Projects\BasicMathAssignment\BasicMathAssignment\bin\Debug\BasicMathAssignment.pdb
-C:\Users\Owner\Desktop\Basic_C#_Projects\BasicMathAssignment\BasicMathAssignment\obj\Debug\BasicMathAssignment.csprojAssemblyReference.cache
-C:\Users\Owner\Desktop\Basic_C#_Projects\BasicMathAssignment\BasicMathAssignment\obj\Debug\BasicMathAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Desktop\Basic_C#_Projects\BasicMathAssignment\BasicMathAssignment\obj\Debug\BasicMathAssignment.exe
-C:\Users\Owner\Desktop\Basic_C#_Projects\BasicMathAssignment\BasicMathAssignment\obj\Debug\BasicMathAssignment.pdb
