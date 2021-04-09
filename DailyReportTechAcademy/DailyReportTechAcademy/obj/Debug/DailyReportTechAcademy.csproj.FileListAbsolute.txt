@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Projects\DailyReportTechAcademy\DailyReportTechAcademy\bin\Debug\DailyReportTechAcademy.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Projects\DailyReportTechAcademy\DailyReportTechAcademy\bin\Debug\DailyReportTechAcademy.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\DailyReportTechAcademy\DailyReportTechAcademy\bin\Debug\DailyReportTechAcademy.pdb
+C:\Users\Owner\Desktop\Basic_C#_Projects\DailyReportTechAcademy\DailyReportTechAcademy\obj\Debug\DailyReportTechAcademy.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\DailyReportTechAcademy\DailyReportTechAcademy\obj\Debug\DailyReportTechAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\DailyReportTechAcademy\DailyReportTechAcademy\obj\Debug\DailyReportTechAcademy.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\DailyReportTechAcademy\DailyReportTechAcademy\obj\Debug\DailyReportTechAcademy.pdb
