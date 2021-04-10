@@ -49,7 +49,7 @@ namespace ArrayandListAssignment
             Console.WriteLine("Please choose a number between 0 and 4 to get a mountain bike brand.");
             int mbIndices = Convert.ToInt32(Console.ReadLine());
 
-            if (mbIndices > 0 && mbIndices < 5)
+            if (mbIndices >= 0 && mbIndices <= 4)
             {
                 Console.WriteLine("Your bike brand is: " + mountainBikes[mbIndices]);
                 Console.ReadLine();
