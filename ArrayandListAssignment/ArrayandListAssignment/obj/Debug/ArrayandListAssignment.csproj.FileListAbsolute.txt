@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Projects\ArrayandListAssignment\ArrayandListAssignment\bin\Debug\ArrayandListAssignment.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Projects\ArrayandListAssignment\ArrayandListAssignment\bin\Debug\ArrayandListAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\ArrayandListAssignment\ArrayandListAssignment\bin\Debug\ArrayandListAssignment.pdb
+C:\Users\Owner\Desktop\Basic_C#_Projects\ArrayandListAssignment\ArrayandListAssignment\obj\Debug\ArrayandListAssignment.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\ArrayandListAssignment\ArrayandListAssignment\obj\Debug\ArrayandListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\ArrayandListAssignment\ArrayandListAssignment\obj\Debug\ArrayandListAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\ArrayandListAssignment\ArrayandListAssignment\obj\Debug\ArrayandListAssignment.pdb
