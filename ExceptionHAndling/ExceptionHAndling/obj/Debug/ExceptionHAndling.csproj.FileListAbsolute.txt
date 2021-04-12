@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Projects\ExceptionHAndling\ExceptionHAndling\bin\Debug\ExceptionHAndling.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Projects\ExceptionHAndling\ExceptionHAndling\bin\Debug\ExceptionHAndling.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\ExceptionHAndling\ExceptionHAndling\bin\Debug\ExceptionHAndling.pdb
+C:\Users\Owner\Desktop\Basic_C#_Projects\ExceptionHAndling\ExceptionHAndling\obj\Debug\ExceptionHAndling.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\ExceptionHAndling\ExceptionHAndling\obj\Debug\ExceptionHAndling.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\ExceptionHAndling\ExceptionHAndling\obj\Debug\ExceptionHAndling.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\ExceptionHAndling\ExceptionHAndling\obj\Debug\ExceptionHAndling.pdb
