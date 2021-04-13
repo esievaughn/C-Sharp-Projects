@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe.config
+C:\Users\Owner\source\repos\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe
+C:\Users\Owner\source\repos\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.pdb
+C:\Users\Owner\source\repos\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.exe
+C:\Users\Owner\source\repos\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.pdb
