@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe.config
+C:\Users\Owner\source\repos\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe
+C:\Users\Owner\source\repos\Abstract Class\Abstract Class\bin\Debug\Abstract Class.pdb
+C:\Users\Owner\source\repos\Abstract Class\Abstract Class\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Abstract Class\Abstract Class\obj\Debug\Abstract Class.exe
+C:\Users\Owner\source\repos\Abstract Class\Abstract Class\obj\Debug\Abstract Class.pdb
