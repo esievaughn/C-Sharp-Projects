@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Projects\Input Assignment\Input Assignment\bin\Debug\Input Assignment.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Projects\Input Assignment\Input Assignment\bin\Debug\Input Assignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\Input Assignment\Input Assignment\bin\Debug\Input Assignment.pdb
+C:\Users\Owner\Desktop\Basic_C#_Projects\Input Assignment\Input Assignment\obj\Debug\Input Assignment.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\Input Assignment\Input Assignment\obj\Debug\Input Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Projects\Input Assignment\Input Assignment\obj\Debug\Input Assignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Projects\Input Assignment\Input Assignment\obj\Debug\Input Assignment.pdb
